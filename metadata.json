@@ -1,0 +1,7 @@
+{
+  "name": " Pronounce Pal",
+  "description": "An interactive AI-powered web application designed to help children improve their pronunciation in a fun and engaging way. A parent or teacher can input a word, and the AI coach will guide the child to say it correctly, providing real-time, positive feedback.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
